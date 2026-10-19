@@ -1,8 +1,8 @@
-##What is a Static Site Generator?
+## What is a Static Site Generator?
 A static site generator takes raw content files (like Markdown and images) and turns them into a static website (a mix of HTML and CSS files).
 ![alt text](image.png)
 Static sites are very popular in the real world for blogs and other content-heavy websites because they're lightning-fast, secure, and easy to host.
-###Static vs. Dynamic Sites
+### Static vs. Dynamic Sites
 A static site is what it sounds like... static. The content is always the same. Users can't:
 
     Upload files
